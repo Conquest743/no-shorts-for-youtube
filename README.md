@@ -6,7 +6,7 @@
 
 [English installation guide](README.en.md)
 
-**[Скачать для Chrome (ZIP)](https://github.com/Conquest743/no-shorts-for-youtube/releases/latest/download/no-shorts-for-youtube.zip)**
+**[Открыть страницу релиза](https://github.com/Conquest743/no-shorts-for-youtube/releases/latest)**
 
 ## Как скачать и установить
 

@@ -6,7 +6,7 @@ This Chrome extension hides Shorts from the YouTube interface. When you open a l
 
 [Инструкция на русском](README.md)
 
-**[Download for Chrome (ZIP)](https://github.com/Conquest743/no-shorts-for-youtube/releases/latest/download/no-shorts-for-youtube.zip)**
+**[View the latest release](https://github.com/Conquest743/no-shorts-for-youtube/releases/latest)**
 
 ## Install in Chrome
 
