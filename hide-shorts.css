@@ -1,0 +1,18 @@
+/* Компоненты, которые YouTube использует специально для Shorts.
+ * Смешанные полки и ссылки проверяет content.js после разбора URL.
+ */
+
+.nsfyt-hidden,
+ytd-rich-shelf-renderer[is-shorts],
+ytd-reel-shelf-renderer,
+ytm-reel-shelf-renderer,
+ytd-rich-section-renderer:has(> ytd-rich-shelf-renderer[is-shorts]),
+ytd-rich-section-renderer:has(> ytd-reel-shelf-renderer),
+ytd-reel-item-renderer,
+ytm-shorts-lockup-view-model,
+ytm-shorts-lockup-view-model-v2,
+ytm-pivot-bar-item-renderer:has(.pivot-shorts),
+ytd-guide-entry-renderer:has(a[href="/shorts"]),
+ytd-mini-guide-entry-renderer:has(a[href="/shorts"]) {
+  display: none !important;
+}
